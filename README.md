@@ -1,1 +1,1 @@
-I serve static stuff on heroku
+I host static files on this server.
